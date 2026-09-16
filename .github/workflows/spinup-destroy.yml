@@ -1,5 +1,5 @@
 name: Configure Azure environment
-#jk
+#jk  JK
 on:
   pull_request:
     types: [labeled]
